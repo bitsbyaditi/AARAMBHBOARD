@@ -7,7 +7,7 @@ function App() {
   return (
     <div style={{ padding: '20px' }}>
       <LiveInput />
-      <Card title="My Card" content="Reusable card content" />
+      <Card title="My Widget" content="This is a reusable card." />
       <DashboardGrid />
     </div>
   );
